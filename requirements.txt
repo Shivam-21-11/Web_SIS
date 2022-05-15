@@ -4,4 +4,4 @@ Flask==2.1.1
 keras==2.8.0
 Keras-Preprocessing==1.1.2
 Werkzeug==2.0.2
-
+Pillow 
